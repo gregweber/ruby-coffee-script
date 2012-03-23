@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
     'README.md'
   ]
 
-  s.add_dependency 'coffee-script-source'
+  s.add_dependency 'contracts.coffee-source'
   s.add_dependency 'execjs'
 
   s.authors = ['Jeremy Ashkenas', 'Joshua Peek', 'Sam Stephenson']
